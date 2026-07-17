@@ -1,0 +1,48 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.14",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "LVzx",
+      "code_hash": "21c4fdbd11e8457b713f2178d6771be9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "QGTG",
+      "code_hash": "147010861cccf1e25381169f96bad6ea",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "syntax",
+          "evalue": "line 5\n    $4x + 2y = 34$\n     ^\nSyntaxError: invalid decimal literal\n",
+          "traceback": []
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SjZm",
+      "code_hash": null,
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
